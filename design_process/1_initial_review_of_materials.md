@@ -23,7 +23,7 @@ There may be some overlap between this document and the notes in `design_thinkin
 - US: User Story
 - F: Feature
 - (Q): question raised during review
-- (C): component - suggests an abstraction of a concept, visual interface component, or mental model
+- (C): concept - suggests an abstraction of a concept, visual interface component, or mental model
 
 ### Basic summary of the `design_thinking` methodology
 
