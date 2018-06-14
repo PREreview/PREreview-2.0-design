@@ -4,6 +4,8 @@
 
 This is an unrefined collection of notes taken by me (@blahah) as I review the documents in this repo that were developed previously.
 
+It will be iterated upon and may have repeated ideas and notes. Parts that failed to account for existing information will be removed/refined iteratively.
+
 I will be leading development of the system, and continuing from the design process followed so far. I was not part of the initial design session, so this is part of my process for building effectively and efficiently on what was produced in that session.
 
 The purpose of these notes is:
